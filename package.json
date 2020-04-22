@@ -1,0 +1,19 @@
+{
+  "name": "myyogabotwebapp",
+  "version": "1.0.0",
+  "description": "my yogabot web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasgpeters/MyYogaBotWebApp.git"
+  },
+  "author": "thomas peters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasgpeters/MyYogaBotWebApp/issues"
+  },
+  "homepage": "https://github.com/thomasgpeters/MyYogaBotWebApp#readme"
+}
